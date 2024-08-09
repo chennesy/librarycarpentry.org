@@ -1,13 +1,13 @@
 # Top menu for Carpentries & Lesson Programs
 top:
   - name: The Carpentries
-    url: https://carpentries.org
+    url: https://carp-new-website.netlify.app/
     weight: 10
   - name: Data Carpentry
-    url: https://datacarpentry.org
+    url: https://dc-new-website.netlify.app/
     weight: 20
   - name: Software Carpentry
-    url: https://software-carpentry.org
+    url: https://swc-new-website.netlify.app/
     weight: 30
   - name: Library Carpentry
     url: /
@@ -121,69 +121,7 @@ footer:
   pageRef: "#"
   parent: volunteers
   weight: 40
-# Footer menu: Menu 4
-- identifier: membership
-  name: Membership
-  url: "#"
-  parent: null
-  weight: 40
-- identifier: link-10
-  name: Link 1
-  pageRef: "#"
-  parent: membership
-  weight: 20
-- identifier: link-11
-  name: Link 2
-  pageRef: "#"
-  parent: membership
-  weight: 30
-- identifier: link-12
-  name: Link 3
-  pageRef: "#"
-  parent: membership
-  weight: 40
-# Footer menu: Menu 5
-- identifier: resources
-  name: Resources
-  url: "#"
-  parent: null
-  weight: 50
-- identifier: link-13
-  name: Link 1
-  pageRef: "#"
-  parent: resources
-  weight: 20
-- identifier: link-14
-  name: Link 2
-  pageRef: "#"
-  parent: resources
-  weight: 30
-- identifier: link-15
-  name: Link 3
-  pageRef: "#"
-  parent: resources
-  weight: 40
-# Footer menu: Menu 6
-- identifier: connect
-  name: Connect
-  url: "#"
-  parent: null
-  weight: 60
-- identifier: link-16
-  name: Link 1
-  pageRef: "#"
-  parent: connect
-  weight: 20
-- identifier: link-17
-  name: Link 2
-  pageRef: "#"
-  parent: connect
-  weight: 30
-- identifier: link-18
-  name: Link 3
-  pageRef: "#"
-  parent: connect
-  weight: 40
+
 socials:
 - name: Slack
   url: "https://swc-slack-invite.herokuapp.com/"
