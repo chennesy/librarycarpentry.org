@@ -1,0 +1,33 @@
+people:
+
+- person_name: Yared Abera Ergu
+  position: 
+  github: Jaredabera
+  country: ET
+  twitter: kechure
+  linkedin: yared-abera-72528257
+
+- person_name: Ekatarina (Eka) Grguric
+  position: Chair
+  github: egrguric
+  country: CA
+  twitter: egrguric
+ 
+- person_name: Elizabeth (Lisa) McAulay
+  position: Secretary
+  github: emcaulay
+  country: US
+  linkedin: elizabeth-mcaulay-6158205 
+
+- person_name: Mary Filsell
+  position:
+  github: Fillstar
+  country: UA 
+  twitter: MaryFilsell
+  linkedin: maryfilsell
+
+- person_name: Belinda Weaver
+  position:
+  github: weaverbel
+  country: AU
+
