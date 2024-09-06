@@ -1,4 +1,7 @@
 # hugo.yaml
+baseURL: https://lc-new-website.netlify.app/
+languageCode: en-us
+title: Library Carpentry
 # Imports the theme into the projects
 module:
   imports:
