@@ -41,3 +41,8 @@ Bonbon jujubes halvah cupcake fruitcake chocolate cake. Marzipan jelly marzipan 
 {{< table >}}
 {{< lesson_table type="conceptual" >}}
 {{< /table >}}
+
+## Additional information
+
+The current [LC lessons page](https://librarycarpentry.org/lessons/) includes information about lesson status definitions (alpha, beta, etc.), information about the lesson development process, and information on community lessons.  Should this information all be somewhere else and only directed to from here? 
+
