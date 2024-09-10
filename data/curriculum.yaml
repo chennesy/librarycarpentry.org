@@ -1,6 +1,6 @@
 curricula:
 
-- name: Tidy Data
+- lessonname: Tidy Data
   site: https://librarycarpentry.org/lc-spreadsheets/
   repo: https://github.com/librarycarpentry/lc-spreadsheets/
   ref: https://librarycarpentry.org/lc-spreadsheets/reference.html
@@ -9,7 +9,7 @@ curricula:
   status: Stable
   category: core
 
-- name: Introduction to Working with Data (Regular Expressions)
+- lessonname: Introduction to Working with Data (Regular Expressions)
   site: https://librarycarpentry.org/lc-data-intro/
   repo: https://github.com/librarycarpentry/lc-data-intro/
   ref: https://librarycarpentry.org/lc-data-intro/reference.html
@@ -18,7 +18,7 @@ curricula:
   status: Stable
   category: core
 
-- name: The UNIX Shell
+- lessonname: The UNIX Shell
   site: https://librarycarpentry.org/lc-shell/
   repo: https://github.com/librarycarpentry/lc-shell/
   ref: https://librarycarpentry.org/lc-shell/reference.html
@@ -27,7 +27,7 @@ curricula:
   status: Stable
   category: core
 
-- name: OpenRefine	
+- lessonname: OpenRefine	
   site: https://librarycarpentry.org/lc-open-refine/
   repo: https://github.com/librarycarpentry/lc-open-refine/
   ref: https://librarycarpentry.org/lc-open-refine/reference.html
@@ -36,7 +36,7 @@ curricula:
   status: Stable
   category: core
 
-- name: Introduction to Git
+- lessonname: Introduction to Git
   site: https://librarycarpentry.org/lc-git/
   repo: https://github.com/librarycarpentry/lc-git/
   ref: https://librarycarpentry.org/lc-git/reference.html
@@ -45,34 +45,118 @@ curricula:
   status: Stable
   category: core
 
-- name: SQL
-  site: 
-  repo: 
-  ref: 
-  inst_notes: 
-  maintainers: 
+- lessonname: SQL
+  site: https://librarycarpentry.org/lc-sql/
+  repo: https://github.com/librarycarpentry/lc-sql/
+  ref: https://librarycarpentry.org/lc-sql/reference.html
+  inst_notes: https://librarycarpentry.org/lc-sql/guide/
+  maintainers: Julika Mimkes, Annajiat Alim Rasel
   status: Stable
   category: extended
 
-- name: Introduction to Python	
-  site: 
-  repo: 
-  ref: 
-  inst_notes: 
-  maintainers: 
+- lessonname: Introduction to Python	
+  site: https://librarycarpentry.org/lc-python-intro/
+  repo: https://github.com/librarycarpentry/lc-python-intro/
+  ref: https://librarycarpentry.org/lc-python-intro/reference.html
+  inst_notes: https://librarycarpentry.org/lc-python-intro/guide/
+  maintainers: Cody Hennesy, Tim Dennis
   status: Alpha
   category: extended
 
 
-- name: Introduction to Data for Archivists
-  site: 
-  repo: 
-  ref: 
-  inst_notes: 
-  maintainers: 
+- lessonname: Introduction to Data for Archivists
+  site: https://librarycarpentry.org/lc-data-intro-archives/
+  repo: https://github.com/librarycarpentry/lc-data-intro-archives/
+  ref: https://librarycarpentry.org/lc-data-intro-archives/reference.html
+  inst_notes: https://librarycarpentry.org/lc-data-intro-archives/guide/
+  maintainers: Katherine Koziar*
   status: Alpha
   category: extended
 
+- lessonname: Introduction to R
+  site: https://librarycarpentry.org/lc-r/
+  repo: https://github.com/librarycarpentry/lc-r/
+  ref: https://librarycarpentry.org/lc-r/reference.html
+  inst_notes: https://librarycarpentry.org/lc-r/guide/
+  maintainers: Jia Qi Beh, Tim Dennis
+  status: Alpha
+  category: extended
+
+
+- lessonname: MarcEdit
+  site: http://librarycarpentry.org/lc-marcedit/
+  repo: https://github.com/LibraryCarpentry/lc-marcedit
+  ref: http://librarycarpentry.org/lc-marcedit/reference.html
+  inst_notes: http://librarycarpentry.org/lc-marcedit/guide/
+  maintainers: Jennifer Eustis*, Abigail Sparling*, Owen Stephens (looking for Maintainers)
+  status: Alpha
+  category: extended
+
+
+- lessonname: Intro to AI for GLAM
+  site: https://carpentries-incubator.github.io/machine-learning-librarians-archivists/
+  repo: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
+  ref: https://carpentries-incubator.github.io/machine-learning-librarians-archivists/reference.html
+  inst_notes: https://carpentries-incubator.github.io/machine-learning-librarians-archivists/guide/index.html
+  maintainers: Mark Bell, Nora McGregor, Daniel van Strien, Mike Trizna
+  status: Beta
+  category: extended
+
+
+- lessonname: DMP Course for Librarians
+  site: http://librarycarpentry.org/lc-dmp101/
+  repo: https://github.com/LibraryCarpentry/lc-dmp101
+  ref: http://librarycarpentry.org/lc-dmp101/reference.html
+  inst_notes: http://librarycarpentry.org/lc-dmp101/guide/index.html
+  maintainers: Lena Bohman, Marla Hertz, Daria Orlowska
+  status: Alpha
+  category: extended
+
+
+- lessonname: Top 10 FAIR Data & Software Things
+  site: https://librarycarpentry.org/Top-10-FAIR/
+  repo: https://github.com/librarycarpentry/Top-10-FAIR/
+  ref: https://librarycarpentry.org/Top-10-FAIR/about/
+  inst_notes: http://doi.org/10.5281/zenodo.3409968
+  maintainers: 
+  status: Retired
+  category: retired
+
+- lessonname: Webscraping
+  site: https://carpentries-incubator.github.io/lc-webscraping/
+  repo: https://github.com/carpentries-incubator/lc-webscraping/
+  ref: https://librarycarpentry.org/lc-overview/reference.html
+  inst_notes: https://librarycarpentry.org/lc-overview/guide/
+  maintainers: Thomas Guignard
+  status: Retired
+  category: retired 
+
+- lessonname: Workshop Overview
+  site: https://librarycarpentry.org/lc-overview/
+  repo: https://github.com/librarycarpentry/lc-overview
+  ref: https://librarycarpentry.org/lc-overview/reference.html
+  inst_notes: https://librarycarpentry.org/lc-overview/guide/
+  maintainers: 	Elizabeth McAulay
+  status: Retired
+  category: retired
+
+- lessonname: Wikidata
+  site: https://librarycarpentry.org/lc-wikidata/
+  repo: https://github.com/LibraryCarpentry/lc-wikidata
+  ref: https://librarycarpentry.org/lc-wikidata/reference.html
+  inst_notes: https://librarycarpentry.org/lc-wikidata/guide/
+  maintainers: Rabea Müller
+  status: Conceptual
+  category: conceptual
+
+- lessonname: FAIR Data & Software
+  site: https://librarycarpentry.org/lc-fair-research/
+  repo: https://github.com/LibraryCarpentry/lc-fair-research
+  ref: https://librarycarpentry.org/lc-fair-research/reference.html
+  inst_notes: https://librarycarpentry.org/lc-fair-research/guide/
+  maintainers: 
+  status: Conceptual
+  category: conceptual
 
 
 
