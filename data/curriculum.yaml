@@ -1,0 +1,78 @@
+curricula:
+
+- name: Tidy Data
+  site: https://librarycarpentry.org/lc-spreadsheets/
+  repo: https://github.com/librarycarpentry/lc-spreadsheets/
+  ref: https://librarycarpentry.org/lc-spreadsheets/reference.html
+  inst_notes: https://librarycarpentry.org/lc-spreadsheets/guide/
+  maintainers: Marco Chiapello, Jesse Johnston 
+  status: Stable
+  category: core
+
+- name: Introduction to Working with Data (Regular Expressions)
+  site: https://librarycarpentry.org/lc-data-intro/
+  repo: https://github.com/librarycarpentry/lc-data-intro/
+  ref: https://librarycarpentry.org/lc-data-intro/reference.html
+  inst_notes: https://librarycarpentry.org/lc-data-intro/instructor/instructor-notes
+  maintainers: Freddy Chia, Kevin French
+  status: Stable
+  category: core
+
+- name: The UNIX Shell
+  site: https://librarycarpentry.org/lc-shell/
+  repo: https://github.com/librarycarpentry/lc-shell/
+  ref: https://librarycarpentry.org/lc-shell/reference.html
+  inst_notes: https://librarycarpentry.org/lc-data-intro/instructor/instructor-notes
+  maintainers: Jamie Jamison, Kaitlin Newson
+  status: Stable
+  category: core
+
+- name: OpenRefine	
+  site: https://librarycarpentry.org/lc-open-refine/
+  repo: https://github.com/librarycarpentry/lc-open-refine/
+  ref: https://librarycarpentry.org/lc-open-refine/reference.html
+  inst_notes: https://librarycarpentry.org/lc-open-refine/instructor/instructor-notes
+  maintainers: Roman Kuhn, Max Prud'homme, Owen Stephens, Jennifer Stubbs
+  status: Stable
+  category: core
+
+- name: Introduction to Git
+  site: https://librarycarpentry.org/lc-git/
+  repo: https://github.com/librarycarpentry/lc-git/
+  ref: https://librarycarpentry.org/lc-git/reference.html
+  inst_notes: https://librarycarpentry.org/lc-git/instructor/instructor-notes
+  maintainers: Seth Erickson, Elizabeth McAulay
+  status: Stable
+  category: core
+
+- name: SQL
+  site: 
+  repo: 
+  ref: 
+  inst_notes: 
+  maintainers: 
+  status: Stable
+  category: extended
+
+- name: Introduction to Python	
+  site: 
+  repo: 
+  ref: 
+  inst_notes: 
+  maintainers: 
+  status: Alpha
+  category: extended
+
+
+- name: Introduction to Data for Archivists
+  site: 
+  repo: 
+  ref: 
+  inst_notes: 
+  maintainers: 
+  status: Alpha
+  category: extended
+
+
+
+
