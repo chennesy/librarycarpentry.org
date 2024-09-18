@@ -6,4 +6,6 @@ lesson_program: 'LC'
 hideToc: true
 ---
 
-Here is some text about upcoming workshops. Candy macaroon lollipop jujubes biscuit. Gummi bears tiramisu oat cake apple pie cake cake. Carrot cake ice cream oat cake gummi bears lollipop. Gummies jelly beans croissant chocolate cake chupa chups sugar plum chupa chups chocolate wafer. Marzipan candy donut sesame snaps halvah donut cotton candy. Carrot cake jelly beans icing sesame snaps macaroon oat cake sesame snaps. Check out our [past workshops here](/workshops/workshops-past).
+Below is a list of our upcoming workshops. If you are interested in knowing more about an individual event, please click on the event to navigate to the workshop webpage. If you have questions about an event, contact information for the event organisers can be found under the “General Information” section of the workshop webpage.  
+
+Check out our [past workshops here](/workshops/workshops-past).
