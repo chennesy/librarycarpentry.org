@@ -1,6 +1,7 @@
 ---
 title: Workshops
 layout: single
+hideToc: true
 ---
 
 For more information about our workshops, please see: 
