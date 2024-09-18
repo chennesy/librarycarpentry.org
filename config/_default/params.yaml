@@ -1,1 +1,6 @@
 logo: lc_logo.svg
+
+# Other websites
+dc-website: https://dc-new-website.netlify.app/
+swc-website:  https://swc-new-website.netlify.app/
+carpentries-website: https://carp-new-website.netlify.app/
