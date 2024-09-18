@@ -11,6 +11,7 @@ blocks:
     - copy: Do something else
       url: #
 - layout: hero
-  title: Here is the thing that Library Carpentry does.
+  title: Library Carpentry is a lesson program within The Carpentries teaching software and data skills for people working in library- and information-related roles.
   image: /images/hero-background.jpg
+  text_color: white
 ---
