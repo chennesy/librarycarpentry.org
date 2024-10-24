@@ -1,10 +1,6 @@
 ---
 title: Library Carpentry Lessons 
 layout: single
-widgets:
-- newsletter
-- meta
-- sponsors
 ---
 
 
