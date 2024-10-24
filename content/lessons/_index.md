@@ -17,7 +17,8 @@ Library Carpentry workshops teach people working in library- and information-rel
 - Learn how to programmatically transform and map data from one form to another.
 - Work effectively with researchers, IT, and systems colleagues.
 - Automate repetitive, error prone tasks.
-- Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
+
+Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
 
 
 ## Core Curriculum
