@@ -43,7 +43,7 @@ The following Library Carpentry lessons can also be taught in addition to our co
 
 ## Retired Curriculum
 
-The following Library Carpentry lessons are no longer maintained. They may include out-of-date instructions or references but content in these lessons could still be useful. You may reach out to the Curriculum Advisory Committee if you are interested in restarting these lessons and becoming a new Maintainer.
+The following Library Carpentry lessons are no longer maintained. They may include out-of-date instructions or references but content in these lessons could still be useful. You may reach out to the [Curriculum Advisory Committee](/about-us/curriculum-advisors/) if you are interested in restarting these lessons and becoming a new Maintainer.
 
 {{< table >}}
 {{< lesson_table type="retired" >}}
