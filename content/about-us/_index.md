@@ -2,6 +2,8 @@
 title: About us
 layout: single
 hideToc: true
+widgets:
+- newsletter
 ---
 
 Library Carpentry develops and teaches workshops on the computational skills needed to efficiently handle and explore large volumes of information. Our mission is to empower people working in library- and information-related roles to use software and data in their own work and to become advocates for and train others in efficient, effective and reproducible data and software practices. The target audience of Library Carpentry is librarians and other information professionals with little to no previous experience with computational methods.
