@@ -12,10 +12,10 @@ widgets:
 ## Our Core Objectives
 Library Carpentry workshops teach people working in library- and information-related roles how to:
 
-- Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;
-- Identify and use best practices in data structures;
-- Learn how to programmatically transform and map data from one form to another;
-- Work effectively with researchers, IT, and systems colleagues;
+- Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks.
+- Identify and use best practices in data structures.
+- Learn how to programmatically transform and map data from one form to another.
+- Work effectively with researchers, IT, and systems colleagues.
 - Automate repetitive, error prone tasks.
 - Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
 
