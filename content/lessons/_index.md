@@ -1,10 +1,6 @@
 ---
 title: Library Carpentry Lessons 
 layout: single
-widgets:
-- newsletter
-- meta
-- sponsors
 ---
 
 
@@ -12,17 +8,18 @@ widgets:
 ## Our Core Objectives
 Library Carpentry workshops teach people working in library- and information-related roles how to:
 
-- Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;
-- Identify and use best practices in data structures;
-- Learn how to programmatically transform and map data from one form to another;
-- Work effectively with researchers, IT, and systems colleagues;
+- Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks.
+- Identify and use best practices in data structures.
+- Learn how to programmatically transform and map data from one form to another.
+- Work effectively with researchers, IT, and systems colleagues.
 - Automate repetitive, error prone tasks.
-- Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
+
+Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
 
 
 ## Core Curriculum
 
-Our Core Curriculum consists of the lessons in the table below. These have been taught many times, and have been further refined after instructor and learner feedback. For more information regarding core lessons and workshops across The Carpentries, visit [The Carpentries workshops page]({{< param carpentries-website >}}/workshops).
+Our Core Curriculum consists of the lessons in the table below. These have been taught many times, and have been further refined after Instructor and learner feedback. For more information regarding core lessons and workshops across The Carpentries, visit [The Carpentries workshops page]({{< param carpentries-website >}}/workshops).
 
 The lessons introduce terms, phrases, and concepts in software development and data science, how to best work with data structures, and use regular expressions in finding and matching data. We introduce the Unix-style command line interface, and teach basic shell navigation, as well as the use of loops and pipes for linking shell commands. We also introduce grep for searching and subsetting data across files. Exercises cover the counting and mining of data. In addition, we cover working with OpenRefine to transform and clean data, and the benefits of working collaboratively via Git/GitHub and using version control to track your work.
 
@@ -42,7 +39,7 @@ The following Library Carpentry lessons can also be taught in addition to our co
 
 ## Retired Curriculum
 
-The following Library Carpentry lessons are no longer maintained. There may be include out-of-date instructions or references but content in these lessons could still be useful. You may reach out to the Curriculum Advisory Committee if you are interested in restarting these lessons and becoming a new Maintainer.
+The following Library Carpentry lessons are no longer maintained. They may include out-of-date instructions or references but content in these lessons could still be useful. You may reach out to the [Curriculum Advisory Committee](/about-us/curriculum-advisors/) if you are interested in restarting these lessons and becoming a new Maintainer.
 
 {{< table >}}
 {{< lesson_table type="retired" >}}
