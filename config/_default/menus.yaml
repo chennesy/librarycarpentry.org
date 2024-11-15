@@ -6,14 +6,15 @@ top:
   - name: Data Carpentry
     url: https://dc-new-website.netlify.app/
     weight: 20
-  - name: Software Carpentry
-    url: https://swc-new-website.netlify.app/
-    weight: 30
   - name: Library Carpentry
     url: /
-    weight: 40
+    weight: 30
     params:
       active: true 
+  - name: Software Carpentry
+    url: https://swc-new-website.netlify.app/
+    weight: 40
+
 # Main menu
 main:
 # Main menu: About
