@@ -19,7 +19,7 @@ Lesson materials are all available online, under a CC BY license, for self-direc
 
 ## Core Curriculum
 
-Our Core Curriculum consists of the lessons in the table below. These have been taught many times, and have been further refined after Instructor and learner feedback. For more information regarding core lessons and workshops across The Carpentries, visit [The Carpentries workshops page]({{< param carpentries-website >}}/workshops).
+Our Core Curriculum consists of the lessons in the table below. These have been taught many times, and have been further refined after Instructor and learner feedback. For more information regarding core lessons and workshops across The Carpentries, visit [The Carpentries workshops page]({{< param carpentries-website >}}workshops).
 
 The lessons introduce terms, phrases, and concepts in software development and data science, how to best work with data structures, and use regular expressions in finding and matching data. We introduce the Unix-style command line interface, and teach basic shell navigation, as well as the use of loops and pipes for linking shell commands. We also introduce grep for searching and subsetting data across files. Exercises cover the counting and mining of data. In addition, we cover working with OpenRefine to transform and clean data, and the benefits of working collaboratively via Git/GitHub and using version control to track your work.
 
