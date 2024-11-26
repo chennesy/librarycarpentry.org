@@ -84,10 +84,10 @@ curricula:
 
 
 - lessonname: MarcEdit
-  site: http://librarycarpentry.org/lc-marcedit/
+  site: https://librarycarpentry.github.io/lc-marcedit/
   repo: https://github.com/LibraryCarpentry/lc-marcedit
-  ref: http://librarycarpentry.org/lc-marcedit/reference.html
-  inst_notes: http://librarycarpentry.org/lc-marcedit/guide/
+  ref: https://librarycarpentry.github.io/lc-marcedit/reference.html
+  inst_notes: https://librarycarpentry.github.io/lc-marcedit/guide/
   maintainers: Jennifer Eustis*, Abigail Sparling*, Owen Stephens (looking for Maintainers)
   status: Alpha
   category: extended
@@ -104,10 +104,10 @@ curricula:
 
 
 - lessonname: DMP Course for Librarians
-  site: http://librarycarpentry.org/lc-dmp101/
+  site: https://librarycarpentry.github.io/lc-dmp101/
   repo: https://github.com/LibraryCarpentry/lc-dmp101
-  ref: http://librarycarpentry.org/lc-dmp101/reference.html
-  inst_notes: http://librarycarpentry.org/lc-dmp101/guide/index.html
+  ref: https://librarycarpentry.github.io/lc-dmp101/reference.html
+  inst_notes: https://librarycarpentry.github.io/lc-dmp101/guide/index.html
   maintainers: Lena Bohman, Marla Hertz, Daria Orlowska
   status: Alpha
   category: extended
