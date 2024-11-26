@@ -22,7 +22,7 @@ curricula:
   site: https://librarycarpentry.github.io/lc-shell/
   repo: https://github.com/librarycarpentry/lc-shell/
   ref: https://librarycarpentry.github.io/lc-shell/reference.html
-  inst_notes: https://librarycarpentry.github.io/lc-data-intro/instructor/instructor-notes
+  inst_notes: https://librarycarpentry.github.io/lc-shell/instructor/instructor-notes
   maintainers: Jamie Jamison, Kaitlin Newson
   status: Stable
   category: core
