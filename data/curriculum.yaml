@@ -60,7 +60,7 @@ curricula:
   ref: https://librarycarpentry.github.io/lc-python-intro/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-python-intro/instructor/instructor-notes.html
   maintainers: Cody Hennesy, Tim Dennis
-  status: Alpha
+  status: Beta
   category: extended
 
 
