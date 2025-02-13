@@ -116,7 +116,7 @@ curricula:
   site: https://librarycarpentry.github.io/lc-computational-thinking/
   repo: https://github.com/LibraryCarpentry/lc-computational-thinking
   ref: https://librarycarpentry.github.io/lc-computational-thinking/instructor/reference.html
-  inst_notes: https://librarycarpentry.github.io/lc-dmp101/instructor/instructor-notes.html
+  inst_notes: https://librarycarpentry.github.io/lc-computational-thinking/instructor/instructor-notes.html
   maintainers: Tim Dennis
   status: Alpha
   category: extended
