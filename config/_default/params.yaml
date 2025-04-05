@@ -1,5 +1,9 @@
 logo: lc_logo.svg
+logoAlt: Library Carpentry Logo
 logoFooter: lc_logo.svg
+logoFooterAlt: Library Carpentry Logo
+
+git_repo: https://github.com/LibraryCarpentry/librarycarpentry.org
 
 # Other websites
 dc-website: https://datacarpentry.org/
