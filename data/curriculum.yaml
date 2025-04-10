@@ -5,7 +5,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-spreadsheets/
   ref: https://librarycarpentry.github.io/lc-spreadsheets/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-spreadsheets/instructor/instructor-notes.html
-  maintainers: Marco Chiapello, Jesse Johnston 
+  maintainers: Marco Chiapello
   status: Stable
   category: core
 
@@ -32,7 +32,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-open-refine/
   ref: https://librarycarpentry.github.io/lc-open-refine/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-open-refine/instructor/instructor-notes
-  maintainers: Roman Kuhn, Max Prud'homme, Owen Stephens, Jennifer Stubbs
+  maintainers: Roman Kuhn, Max Prud'homme, Owen Stephens
   status: Stable
   category: core
 
@@ -41,7 +41,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-git/
   ref: https://librarycarpentry.github.io/lc-git/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-git/instructor/instructor-notes
-  maintainers: Seth Erickson, Elizabeth McAulay
+  maintainers: Seth Erickson
   status: Stable
   category: core
 
@@ -69,7 +69,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-data-intro-archives/
   ref: https://librarycarpentry.github.io/lc-data-intro-archives/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-data-intro-archives/instructor/instructor-notes.html
-  maintainers: Katherine Koziar*
+  maintainers: Katherine Koziar
   status: Alpha
   category: extended
 
@@ -88,7 +88,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-marcedit
   ref: https://librarycarpentry.github.io/lc-marcedit/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-marcedit/instructor/instructor-notes.html
-  maintainers: Jennifer Eustis*, Abigail Sparling*, Owen Stephens (looking for Maintainers)
+  maintainers: Jennifer Eustis*, Abigail Sparling, Owen Stephens (looking for Maintainers)
   status: Alpha
   category: extended
 
@@ -144,7 +144,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-overview
   ref: https://librarycarpentry.github.io/lc-overview/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-overview/instructor/instructor-notes.html
-  maintainers: 	Elizabeth McAulay
+  maintainers: 
   status: Retired
   category: retired
 
