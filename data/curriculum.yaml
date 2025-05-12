@@ -5,7 +5,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-spreadsheets/
   ref: https://librarycarpentry.github.io/lc-spreadsheets/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-spreadsheets/instructor/instructor-notes.html
-  maintainers: Marco Chiapello
+  maintainers: Marco Chiapello, Kyla Jemison
   status: Stable
   category: core
 
@@ -41,7 +41,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-git/
   ref: https://librarycarpentry.github.io/lc-git/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-git/instructor/instructor-notes
-  maintainers: Seth Erickson
+  maintainers: Alex Ball, Seth Erickson
   status: Stable
   category: core
 
@@ -59,7 +59,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-python-intro/
   ref: https://librarycarpentry.github.io/lc-python-intro/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-python-intro/instructor/instructor-notes.html
-  maintainers: Cody Hennesy, Tim Dennis
+  maintainers: Tim Dennis, Cody Hennesy, Kendra Oudyk
   status: Beta
   category: extended
 
@@ -69,7 +69,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-data-intro-archives/
   ref: https://librarycarpentry.github.io/lc-data-intro-archives/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-data-intro-archives/instructor/instructor-notes.html
-  maintainers: Katherine Koziar
+  maintainers: Katherine Koziar, Senn Oon
   status: Alpha
   category: extended
 
@@ -78,7 +78,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-r/
   ref: https://librarycarpentry.github.io/lc-r/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-r/instructor/instructor-notes.html
-  maintainers: Jia Qi Beh, Tim Dennis
+  maintainers: Jia Qi Beh, Tim Dennis, Nicky Garland
   status: Alpha
   category: extended
 
@@ -117,7 +117,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-computational-thinking
   ref: https://librarycarpentry.github.io/lc-computational-thinking/instructor/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-computational-thinking/instructor/instructor-notes.html
-  maintainers: Tim Dennis
+  maintainers: Tim Dennis, Gandhimathi Padmanaban, Rafia Mirza
   status: Alpha
   category: extended
 
@@ -153,7 +153,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-wikidata
   ref: https://librarycarpentry.github.io/lc-wikidata/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-wikidata/instructor/instructor-notes.html
-  maintainers: Rabea Müller
+  maintainers: Rabea Müller, Shelby Watson
   status: Conceptual
   category: conceptual
 
