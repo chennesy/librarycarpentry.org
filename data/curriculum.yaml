@@ -89,7 +89,7 @@ curricula:
   ref: https://librarycarpentry.github.io/lc-marcedit/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-marcedit/instructor/instructor-notes.html
   maintainers: Jennifer Eustis*, Abigail Sparling, Owen Stephens (looking for Maintainers)
-  status: Alpha
+  status: Beta
   category: extended
 
 
