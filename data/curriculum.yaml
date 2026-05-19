@@ -5,7 +5,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-spreadsheets/
   ref: https://librarycarpentry.github.io/lc-spreadsheets/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-spreadsheets/instructor/instructor-notes.html
-  maintainers: Marco Chiapello, Kyla Jemison
+  maintainers: Kyla Jemison, Meghan Harris
   status: Stable
   category: core
 
@@ -14,7 +14,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-data-intro/
   ref: https://librarycarpentry.github.io/lc-data-intro/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-data-intro/instructor/instructor-notes.html
-  maintainers: Freddy Chia
+  maintainers: Mohit Garg, Toby Hodges
   status: Stable
   category: core
 
@@ -23,7 +23,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-shell/
   ref: https://librarycarpentry.github.io/lc-shell/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-shell/instructor/instructor-notes
-  maintainers: Jamie Jamison, Jesse Johnston, Kaitlin Newson
+  maintainers: Jamie Jamison, Jesse Johnston, Johnmicheal Uzendu
   status: Stable
   category: core
 
@@ -32,7 +32,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-open-refine/
   ref: https://librarycarpentry.github.io/lc-open-refine/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-open-refine/instructor/instructor-notes
-  maintainers: Roman Kuhn, Max Prud'homme, Owen Stephens
+  maintainers: Max Prud'homme, Owen Stephens
   status: Stable
   category: core
 
@@ -50,7 +50,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-sql/
   ref: https://librarycarpentry.github.io/lc-sql/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-sql/instructor/instructor-notes.html
-  maintainers: Julika Mimkes, Annajiat Alim Rasel
+  maintainers: Annajiat Alim Rasel
   status: Stable
   category: extended
 
@@ -59,7 +59,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-python-intro/
   ref: https://librarycarpentry.github.io/lc-python-intro/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-python-intro/instructor/instructor-notes.html
-  maintainers: Tim Dennis, Cody Hennesy, Kendra Oudyk
+  maintainers: Ahmed Hasan, Cody Hennesy, Tim Dennis
   status: Beta
   category: extended
 
@@ -78,7 +78,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-r/
   ref: https://librarycarpentry.github.io/lc-r/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-r/instructor/instructor-notes.html
-  maintainers: Jia Qi Beh, Tim Dennis, Nicky Garland
+  maintainers: Jia Qi Beh, Nicky Garland, Tim Dennis
   status: Beta
   category: extended
 
@@ -88,7 +88,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-marcedit
   ref: https://librarycarpentry.github.io/lc-marcedit/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-marcedit/instructor/instructor-notes.html
-  maintainers: Jennifer Eustis*, Abigail Sparling, Owen Stephens (looking for Maintainers)
+  maintainers: Abigail Sparling, Jennifer Eustis, Owen Stephens
   status: Beta
   category: extended
 
@@ -98,7 +98,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-machine-learning
   ref: https://librarycarpentry.github.io/lc-machine-learning/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-machine-learning/instructor/instructor-notes.html
-  maintainers: Mark Bell, Nora McGregor, Daniel van Strien, Mike Trizna
+  maintainers: Daniel van Strien, Mark Bell, Mike Trizna, Nora McGregor
   status: Beta
   category: extended
 
@@ -108,7 +108,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-dmp101
   ref: https://librarycarpentry.github.io/lc-dmp101/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-dmp101/instructor/instructor-notes.html
-  maintainers: Lena Bohman, Marla Hertz, Daria Orlowska
+  maintainers: Daria Orlowska, Lena Bohman, Marla Hertz
   status: Alpha
   category: extended
 
@@ -117,7 +117,7 @@ curricula:
   repo: https://github.com/LibraryCarpentry/lc-computational-thinking
   ref: https://librarycarpentry.github.io/lc-computational-thinking/instructor/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-computational-thinking/instructor/instructor-notes.html
-  maintainers: Tim Dennis, Gandhimathi Padmanaban, Rafia Mirza
+  maintainers: Gandhimathi Padmanaban, Rafia Mirza, Tim Dennis
   status: Alpha
   category: extended
 
