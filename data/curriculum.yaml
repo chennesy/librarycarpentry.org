@@ -102,6 +102,32 @@ curricula:
   status: Beta
   category: extended
 
+- lessonname: Open Qualitative Research
+  site: https://librarycarpentry.github.io/lc-qualitative-taguette/
+  repo: https://github.com/LibraryCarpentry/lc-qualitative-taguette
+  ref: https://librarycarpentry.github.io/lc-qualitative-taguette/reference.html
+  inst_notes: https://librarycarpentry.github.io/lc-qualitative-taguette/instructor-notes.html
+  maintainers: Nathaniel D. Porter
+  status: Beta
+  category: extended
+  
+- lessonname: Open Qualitative Research with QualCoder	
+  site: https://librarycarpentry.github.io/lc-qualitative-qualcoder/
+  repo: https://github.com/librarycarpentry/lc-qualitative-qualcoder/
+  ref: https://librarycarpentry.github.io/lc-qualitative-qualcoder/reference.html
+  inst_notes: https://librarycarpentry.github.io/lc-qualitative-qualcoder/instructor-notes.html
+  maintainers: Nathaniel D. Porter, Sebastian Karcher
+  status: Beta
+  category: extended
+  
+- lessonname: Wikidata	
+  site: https://librarycarpentry.github.io/lc-wikidata/
+  repo: https://github.com/librarycarpentry/lc-wikidata/
+  ref: https://librarycarpentry.github.io/lc-wikidata/reference.html
+  inst_notes: https://librarycarpentry.github.io/lc-wikidata/instructor-notes.html
+  maintainers: Rabea Müller, Till Sauerwein, Muhammad Elhossary, Konrad Förstner, Shelby Watson
+  status: Beta
+  category: extended
 
 - lessonname: DMP Course for Librarians
   site: https://librarycarpentry.github.io/lc-dmp101/
