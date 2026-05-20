@@ -125,7 +125,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-wikidata/
   ref: https://librarycarpentry.github.io/lc-wikidata/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-wikidata/instructor-notes.html
-  maintainers: Rabea Müller, Till Sauerwein, Muhammad Elhossary, Konrad Förstner, Shelby Watson
+  maintainers: Rabea Müller, Shelby Watson
   status: Beta
   category: extended
 
